@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(197, 209, 25);
+    color: rgba(3, 2, 2, 0.87);
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+}
+table{
+	margin-top: 75px;
+	text-align: center;
+	background: #333;
+	color: #fff;
+}
+
+#show th, #show td{
+	padding: 20px;
+}
+
+#btna td input{
+	width: 100%;
+}
